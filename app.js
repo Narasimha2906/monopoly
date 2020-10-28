@@ -47,7 +47,7 @@ function changePosition_2(old,currentPos){
     var newPosition = old + currentPos;
     player2[1]=newPosition;
     console.log(player2[1]);
-    updateMoney_1(player2[1]);
+    updateMoney_2(player2[1]);
 
 }
 
